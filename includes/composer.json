@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.4",
+        "mpdf/mpdf": "^8.0"
+    }
+}
